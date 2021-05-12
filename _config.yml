@@ -8,7 +8,7 @@ school:
   link: http://www.newschool.edu/public-engagement/ma-ms-international-affairs/
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  DESCRIPTION
+  Advanced GIS projects for Fall 2021
 baseurl: /adv-spring2021/
 url: http://gpia-gis.github.io
 twitter_username: TheNewSchool
